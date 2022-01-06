@@ -66,10 +66,6 @@ p{
 #Goals{
     background-color: #FFF4D6;
 }
-#banner{
-    background-image: url(shapes/shape-1.png);
-     background-repeat: no-repeat;
- }
 
 
  footer h2{
@@ -87,12 +83,5 @@ footer p{
 .footer-backgroundcolor{
     background-color: #0B0D17;
 }
-.background-banner{
-    background-image: url(shapes/shape-1.png);
-    background-repeat: no-repeat;
-    
-    
-}
-
 
 
