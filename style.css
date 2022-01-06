@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+   padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.mission2022-color{
+    color: rgb(253, 9, 143);
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 30px;
+}
+.half-width{
+width: 50%;
+padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color:#17d861;
+    color: white;
+    font-weight: 700;
+    
+   
+}
+p{
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.border-id{
+    border-left: 4px solid rgb(216, 28, 28);
+}
+.textaline{
+    text-align: center;
+}
+.My-Mission{
+    width: 50%;
+   background-color: rgb(233, 30, 30);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 20px
+}
+.My-Mission img{
+    width: 50%;
+}
+
+#Mission{
+    background-color:#EDF5F6;
+}
+#Vission{
+    background-color: #FFEEEE;
+}
+#Goals{
+    background-color: #FFF4D6;
+}
+#banner{
+    background-image: url(shapes/shape-1.png);
+     background-repeat: no-repeat;
+ }
+
+
+ footer h2{
+    text-align: center;
+    font-weight: 500;
+    color: white;
+}
+footer p{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+}   
+
+.footer-backgroundcolor{
+    background-color: #0B0D17;
+}
+.background-banner{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    
+    
+}
+
+
+
