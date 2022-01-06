@@ -40,7 +40,7 @@ p{
     text-align: justify;
 }
 .border-id{
-    border-left: 4px solid rgb(216, 28, 28);
+    border-left: 4px solid #FF5959;
 }
 .textaline{
     text-align: center;
@@ -66,7 +66,14 @@ p{
 #Goals{
     background-color: #FFF4D6;
 }
-
+.what-i-do-item{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 20px
+}
 
  footer h2{
     text-align: center;
